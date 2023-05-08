@@ -1,0 +1,15 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\bin\Debug\net7.0\VanSync.Domain.exe
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\bin\Debug\net7.0\VanSync.Domain.deps.json
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\bin\Debug\net7.0\VanSync.Domain.runtimeconfig.json
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\bin\Debug\net7.0\VanSync.Domain.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\bin\Debug\net7.0\VanSync.Domain.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.AssemblyInfoInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.AssemblyInfo.cs
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\refint\VanSync.Domain.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\VanSync.Domain.genruntimeconfig.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\VanSync_API\VanSync.API\VanSync.Domain\obj\Debug\net7.0\ref\VanSync.Domain.dll

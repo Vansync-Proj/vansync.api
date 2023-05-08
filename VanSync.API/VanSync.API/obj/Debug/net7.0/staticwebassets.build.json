@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3WWlACAaWvTjpfSIni/nPVK5IQ8qXjT4+pbOWnyI9n0=",
+  "Source": "VanSync.API",
+  "BasePath": "_content/VanSync.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

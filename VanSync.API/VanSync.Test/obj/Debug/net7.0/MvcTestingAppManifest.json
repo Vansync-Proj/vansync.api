@@ -1,0 +1,6 @@
+{
+  "VanSync.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.API",
+  "VanSync.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business",
+  "VanSync.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain",
+  "VanSync.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra"
+}

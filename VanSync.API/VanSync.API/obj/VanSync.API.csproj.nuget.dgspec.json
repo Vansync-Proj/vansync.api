@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.API\\VanSync.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.API\\VanSync.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.API\\VanSync.API.csproj",
+        "projectName": "VanSync.API",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.API\\VanSync.API.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business\\VanSync.Business.csproj": {
+                "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business\\VanSync.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business\\VanSync.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business\\VanSync.Business.csproj",
+        "projectName": "VanSync.Business",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business\\VanSync.Business.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj": {
+                "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj"
+              },
+              "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra\\VanSync.Infra.csproj": {
+                "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra\\VanSync.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj",
+        "projectName": "VanSync.Domain",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra\\VanSync.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra\\VanSync.Infra.csproj",
+        "projectName": "VanSync.Infra",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra\\VanSync.Infra.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj": {
+                "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\VanSync_API\\VanSync.API\\VanSync.Domain\\VanSync.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
